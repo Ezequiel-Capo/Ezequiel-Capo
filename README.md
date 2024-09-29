@@ -11,12 +11,12 @@ I'm a student from 🇺🇾 Uruguay with a strong interest in programming and so
 
 <p align="center">
   <a href="https://github.com/hezek-02">
-    <img height="205em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hezek-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hezek-02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </p>
 
 <p align="center">
-  <img height="205em" src="https://github-readme-streak-stats.herokuapp.com/?user=hezek-02&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hezek-02&theme=tokyonight&hide_border=true"/>
 </p>
 <hr align="center" width="100%" >
 <h3 align="left">Connect with me:</h3>
