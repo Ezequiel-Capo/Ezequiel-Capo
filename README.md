@@ -5,7 +5,7 @@ I'm a student with a strong interest in programming and software development. ğŸ
 ### ğŸ“Š &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/hezek-02">
-  <img height="245em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezek-02&layout=compact&langs_count=8&theme=tokyonight&include_private=true" />
+  <img height="245em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hezek-02&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
   </a>
 </p>
 
