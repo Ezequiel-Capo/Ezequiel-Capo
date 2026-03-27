@@ -1,6 +1,6 @@
 ## Hi there, I'm Ezequiel Capó 👋
 
-I'm a student with a strong interest in programming and software development. 🌱
+Student with a strong interest in programming and software development. 🌱
 
 ### 📊 &nbsp;GitHub Analytics
 <p align="center">
