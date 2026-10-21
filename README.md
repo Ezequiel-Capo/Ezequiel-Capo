@@ -1,6 +1,6 @@
-## Hi there, I'm Ezequiel Capó 👋
+# Ezequiel Capó
 
-Student with a strong interest in programming and software development. 🌱
+Final-year Computer Science student at Universidad de la República (UDELAR, Uruguay). Driven by a strong passion for Machine Learning and AI Engineering.
 
 ### 📊 &nbsp;GitHub Analytics
 <p align="center">
